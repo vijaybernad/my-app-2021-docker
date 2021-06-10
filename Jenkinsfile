@@ -23,7 +23,7 @@ pipeline{
 
     stage('dev-deploy'){
       steps{
-        
+         echo "deploy"
       }
     }
   }
